@@ -1,0 +1,1231 @@
+
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 45
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 45, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 15
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 15, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 14
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 14, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 10
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 10, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 20
+-minuti: 00
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 20, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 17
+-minuti: 10
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 17, `Minuti` = 10, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 17
+-minuti: 10
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 17, `Minuti` = 10, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 00
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 20
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 20, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 45
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 45, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 17
+-minuti: 10
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 17, `Minuti` = 10, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 19
+-minuti: 45
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 19, `Minuti` = 45, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 00
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 45
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 45, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 15
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 15, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 17
+-minuti: 15
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 17, `Minuti` = 15, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 00
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 23
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 23, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 20
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 20, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 3
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 3, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 20
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 20, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 3
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 3, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 17
+-minuti: 15
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 17, `Minuti` = 15, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 2
+-comando: 0
+-ora: 23
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 0, `Ora` = 23, `Minuti` = 0, `Descrizione` = 'Spegne uscita 2b' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 30
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 2
+-comando: 0
+-ora: 23
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 0, `Ora` = 23, `Minuti` = 0, `Descrizione` = 'Spegne uscita 2b' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 17
+-minuti: 15
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 17, `Minuti` = 15, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 44)
+inizio
+ comando: delete_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 44
+-uscita: 
+-comando: 
+-ora: 
+-minuti: 
+-descr: 
+
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 0
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 0, `Minuti` = 0, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 30, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 30, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 18
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 18, `Minuti` = 30, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 2
+-comando: 0
+-ora: 23
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 0, `Ora` = 23, `Minuti` = 0, `Descrizione` = 'Spegne uscita 2b' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 2
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 2, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 02
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 2, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 2
+-minuti: 00
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 2, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 2
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 2, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 2
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 2, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 2
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 2, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 2
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 2, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 00
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 0, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 4
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 4, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 2
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 2, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 3
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 3, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 20
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 20, `Minuti` = 0, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 2
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 2, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 30, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 45
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 45, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 19
+-minuti: 00
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 19, `Minuti` = 0, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 23
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 23, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 45
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 45, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 30, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 30, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 30
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 30, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 30
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 30, `Descrizione` = '' WHERE (`ID_Timer` = 59)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 1
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 1, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: delete_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 59
+-uscita: 
+-comando: 
+-ora: 
+-minuti: 
+-descr: 
+
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 23
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 23, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 23
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 23, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 5
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 5, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = 'Accende uscita 2 ' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 5
+-comando: 1
+-ora: 18
+-minuti: 17
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 5, `Comando` = 1, `Ora` = 18, `Minuti` = 17, `Descrizione` = 'Prova wemos d1' WHERE (`ID_Timer` = 1)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 62
+-uscita: 5
+-comando: 0
+-ora: 0
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 5, `Comando` = 0, `Ora` = 0, `Minuti` = 0, `Descrizione` = 'Prova wemos d1 off' WHERE (`ID_Timer` = 62)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 62
+-uscita: 5
+-comando: 0
+-ora: 0
+-minuti: 15
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 5, `Comando` = 0, `Ora` = 0, `Minuti` = 15, `Descrizione` = 'Prova wemos d1 off' WHERE (`ID_Timer` = 62)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 23
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 23, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 19
+-minuti: 37
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 19, `Minuti` = 37, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 23
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 23, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 23
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 23, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 23
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 23, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 23
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 23, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 17
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 17, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 23
+-minuti: 30
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 23, `Minuti` = 30, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: delete_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 61
+-uscita: 
+-comando: 
+-ora: 
+-minuti: 
+-descr: 
+
+inizio
+ comando: delete_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 60
+-uscita: 
+-comando: 
+-ora: 
+-minuti: 
+-descr: 
+
+inizio
+ comando: delete_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 62
+-uscita: 
+-comando: 
+-ora: 
+-minuti: 
+-descr: 
+
+inizio
+ comando: delete_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 1
+-uscita: 
+-comando: 
+-ora: 
+-minuti: 
+-descr: 
+
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 14
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 14, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 14
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 14, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 14
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 14, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 00
+-minuti: 00
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 14
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 14, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 14
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 14, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 00
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 14
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 14, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora:  18
+-minuti: 00
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 0
+-minuti: 0
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 0, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 2
+-uscita: 3
+-comando: 1
+-ora: 18
+-minuti: 0
+-descr: 1
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 1, `Ora` = 18, `Minuti` = 0, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 2)
+inizio
+ comando: update_tbl_timer
+-tabella: ardu1_domo_tbl_Timer
+-id: 51
+-uscita: 3
+-comando: 0
+-ora: 23
+-minuti: 59
+-descr: 0
+UPDATE ardu1_domo_tbl_Timer SET `Uscita` = 3, `Comando` = 0, `Ora` = 23, `Minuti` = 59, `Descrizione` = 'Ingresso 1 piano' WHERE (`ID_Timer` = 51)
